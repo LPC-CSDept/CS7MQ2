@@ -1,6 +1,7 @@
 def main():
-    s = input()
-    indicies = list(map(int, input().split()))
+    list1 = list(map(int, input().split()))
+    list2 = list(map(int, input().split()))
+    result = []
     ##################################################
     # Code your program here
     ##################################################
